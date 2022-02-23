@@ -1,0 +1,15 @@
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\SortedSample_10.exe
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\SortedSample_10.deps.json
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\SortedSample_10.runtimeconfig.json
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\SortedSample_10.dll
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\ref\SortedSample_10.dll
+D:\dotnet\assignment 6_collection\SortedSample_10\bin\Debug\net6.0\SortedSample_10.pdb
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.csproj.AssemblyReference.cache
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.AssemblyInfoInputs.cache
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.AssemblyInfo.cs
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.dll
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\ref\SortedSample_10.dll
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.pdb
+D:\dotnet\assignment 6_collection\SortedSample_10\obj\Debug\net6.0\SortedSample_10.genruntimeconfig.cache

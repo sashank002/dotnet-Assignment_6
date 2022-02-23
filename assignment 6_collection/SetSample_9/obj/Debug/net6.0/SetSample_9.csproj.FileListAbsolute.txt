@@ -1,0 +1,15 @@
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\SetSample_9.exe
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\SetSample_9.deps.json
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\SetSample_9.runtimeconfig.json
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\SetSample_9.dll
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\ref\SetSample_9.dll
+D:\dotnet\assignment 6_collection\SetSample_9\bin\Debug\net6.0\SetSample_9.pdb
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.csproj.AssemblyReference.cache
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.AssemblyInfoInputs.cache
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.AssemblyInfo.cs
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.dll
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\ref\SetSample_9.dll
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.pdb
+D:\dotnet\assignment 6_collection\SetSample_9\obj\Debug\net6.0\SetSample_9.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\sorting.exe
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\sorting.deps.json
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\sorting.runtimeconfig.json
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\sorting.dll
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\ref\sorting.dll
+D:\dotnet\assignment 6\sorting\bin\Debug\net6.0\sorting.pdb
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.csproj.AssemblyReference.cache
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.AssemblyInfoInputs.cache
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.AssemblyInfo.cs
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.dll
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\ref\sorting.dll
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.pdb
+D:\dotnet\assignment 6\sorting\obj\Debug\net6.0\sorting.genruntimeconfig.cache

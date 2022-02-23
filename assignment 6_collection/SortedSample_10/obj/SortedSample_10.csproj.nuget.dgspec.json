@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dotnet\\assignment 6_collection\\SortedSample_10\\SortedSample_10.csproj": {}
+  },
+  "projects": {
+    "D:\\dotnet\\assignment 6_collection\\SortedSample_10\\SortedSample_10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\assignment 6_collection\\SortedSample_10\\SortedSample_10.csproj",
+        "projectName": "SortedSample_10",
+        "projectPath": "D:\\dotnet\\assignment 6_collection\\SortedSample_10\\SortedSample_10.csproj",
+        "packagesPath": "C:\\Users\\parmar sashank\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\assignment 6_collection\\SortedSample_10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\parmar sashank\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

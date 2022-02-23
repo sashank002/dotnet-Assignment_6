@@ -1,0 +1,15 @@
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\DictonarySample_3.exe
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\DictonarySample_3.deps.json
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\DictonarySample_3.runtimeconfig.json
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\DictonarySample_3.dll
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\ref\DictonarySample_3.dll
+D:\dotnet\assignment 6_collection\DictonarySample_3\bin\Debug\net6.0\DictonarySample_3.pdb
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.csproj.AssemblyReference.cache
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.AssemblyInfoInputs.cache
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.AssemblyInfo.cs
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.dll
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\ref\DictonarySample_3.dll
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.pdb
+D:\dotnet\assignment 6_collection\DictonarySample_3\obj\Debug\net6.0\DictonarySample_3.genruntimeconfig.cache

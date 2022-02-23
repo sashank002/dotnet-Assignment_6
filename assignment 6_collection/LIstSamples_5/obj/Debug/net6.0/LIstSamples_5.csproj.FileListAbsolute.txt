@@ -1,0 +1,15 @@
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\LIstSamples_5.exe
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\LIstSamples_5.deps.json
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\LIstSamples_5.runtimeconfig.json
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\LIstSamples_5.dll
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\ref\LIstSamples_5.dll
+D:\dotnet\assignment 6_collection\LIstSamples_5\bin\Debug\net6.0\LIstSamples_5.pdb
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.csproj.AssemblyReference.cache
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.AssemblyInfoInputs.cache
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.AssemblyInfo.cs
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.csproj.CoreCompileInputs.cache
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.dll
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\ref\LIstSamples_5.dll
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.pdb
+D:\dotnet\assignment 6_collection\LIstSamples_5\obj\Debug\net6.0\LIstSamples_5.genruntimeconfig.cache
